@@ -17,3 +17,4 @@ npm run dev
 
 (ใส่ URL ที่นี่)
 https://bev4g5-3000.preview.csb.app/
+https://auttoz014.surge.sh/
