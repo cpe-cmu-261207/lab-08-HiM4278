@@ -16,3 +16,4 @@ npm run dev
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
 (ใส่ URL ที่นี่)
+https://bev4g5-3000.preview.csb.app/
